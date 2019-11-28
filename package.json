@@ -1,0 +1,29 @@
+{
+  "name": "js-intro",
+  "version": "1.0.0",
+  "description": "Youtube Live Session: Introducción a JS. Desde Cero.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolasalliaume/js-intro.git"
+  },
+  "keywords": [
+    "intro",
+    "js",
+    "youtube",
+    "session",
+    "live"
+  ],
+  "author": "Nicolas Alliaume",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolasalliaume/js-intro/issues"
+  },
+  "homepage": "https://github.com/nicolasalliaume/js-intro#readme",
+  "dependencies": {
+    "mocha": "^6.2.2"
+  }
+}
