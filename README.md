@@ -2,7 +2,7 @@
 
 ## Cómo usar este repo
 
-— **Intro**: Aquí estarán los archivos que iré usando durante la sesión para live-coding.
+— **Playground**: Aquí estarán los archivos que iré usando durante la sesión para live-coding.
 
 — **Ejercicios/Live**: Aquí están los ejercicios que haremos durante la sesión. Estos ejercicios están divididos en directorios que iré haciendo referencia durante la sesión.
 

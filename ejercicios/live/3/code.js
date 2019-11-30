@@ -16,6 +16,12 @@
  -----------------------------------------------*/
 
 
+ // lengths: Retorna un array con el largo de cada cadena en el 
+ // array parámetro.
+ // lenghts :: [ String ] -> [ Number ]
+ const lengths = xs => xs.map(x => x.length)
+
+
 // merge: Retorna un objeto como resultado de concatenar cada una
 // de las propiedades de dos objetos dados.Asumimos que ambos 
 // objetos tienen las mismas propiedades.
@@ -27,12 +33,6 @@ const merge = (o1, o2) => {
     }
     return result
 }
-
-
-// lengths: Retorna un array con el largo de cada cadena en el 
-// array parámetro.
-// lenghts :: [ String ] -> [ Number ]
-const lengths = xs => xs.map(x => x.length)
 
 
 
