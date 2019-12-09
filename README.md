@@ -17,11 +17,14 @@
 
 ## Cómo clonar este repo
 
-En una terminal, ejecutar 
+**Usando Git**: En una terminal, ejecutar:
 
 ```
 git clone https://github.com/nicolasalliaume/js-intro.git
 ```
+
+**Descargándolo como zip**: Haciendo click [aquí](https://github.com/nicolasalliaume/js-intro/archive/master.zip).
+
 
 ## Otros links:
 
