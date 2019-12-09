@@ -11,8 +11,6 @@
 
 ## Herramientas/dependencias
 
-— **Git**: [Descargar Git](https://git-scm.com/downloads). _Linux y Mac ya tienen git instalado por defecto._
-
 — **Node**: [Descargar NodeJS](https://nodejs.org/en/download/). Versión `>= 10.16.0`
 
 — **Paquetes npm**: Correr `npm i` en la raiz de este repo para instalar las dependencias.
