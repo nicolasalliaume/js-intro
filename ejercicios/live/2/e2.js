@@ -16,19 +16,21 @@
  Creado por [Nico Alliaume](https://github.com/nicolasalliaume)
  -----------------------------------------------*/
 
-// max: Retorna el mayor de una lista de números
+// max: Retorna el mayor de una lista de números,
+//      o null si el array es vacío.
 // max :: [ Number ] -> Number
 const max = 
 
 
-// longest: Retorna el string más largo de una lista de strings
+// longest: Retorna el string más largo de una lista de strings, 
+//          o null si el array es vacío.
 // longest :: [ String ] -> String
 const longest = 
 
 
 // propOrElse: Retorna el valor de una propiedad de un objeto, o un
 // valor por defecto si la propiedad no existe
-// propOrElse :: String -> a -> {String: a} -> a
+// propOrElse :: String -> a -> { String: a } -> a
 const propOrElse = 
 
 

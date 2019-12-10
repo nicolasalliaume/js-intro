@@ -23,7 +23,7 @@
 
 
 // merge: Retorna un objeto como resultado de concatenar cada una
-// de las propiedades de dos objetos dados.Asumimos que ambos 
+// de las propiedades de dos objetos dados. Asumimos que ambos 
 // objetos tienen las mismas propiedades.
 // merge :: Object -> Object -> Object
 const merge = (o1, o2) => {

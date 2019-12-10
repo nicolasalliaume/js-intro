@@ -18,11 +18,11 @@ describe('#ejercicio offline 2', function() {
     describe('#toKeyValuePairs', function() {
 
         it('retorna un array vacio cuando el objeto es vacío', function() {
-            assert.deepEqual(toKeyValuePairs({}), [])
+            assert.deepStrictEqual(toKeyValuePairs({}), [])
         })
 
         it('retorna un array con claves y valores cuando el objeto no es vacío', function () {
-            assert.deepEqual(toKeyValuePairs({a: 1, b: 2}), [['a', 1], ['b', 2]])
+            assert.deepStrictEqual(toKeyValuePairs({a: 1, b: 2}), [['a', 1], ['b', 2]])
         })
 
     })
