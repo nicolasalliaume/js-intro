@@ -28,7 +28,7 @@ git clone https://github.com/nicolasalliaume/js-intro.git
 
 ## Otros links:
 
-— [**Tablero de preguntas**](https://www.mentimeter.com/s/bdfd2945f746ed2605c5d738e6f20e4f/7441523b3f7b)
+— [**Tablero de preguntas**](https://www.menti.com (ver código para acceder en el streaming)
 
 ## Contacto
 
