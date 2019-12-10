@@ -28,7 +28,7 @@ git clone https://github.com/nicolasalliaume/js-intro.git
 
 ## Otros links:
 
-— [**Tablero de preguntas**](https://www.menti.com) (ver código para acceder en el streaming)
+— [**Tablero de preguntas**](https://www.menti.com) ( Code: 36 74 69 )
 
 ## Contacto
 
