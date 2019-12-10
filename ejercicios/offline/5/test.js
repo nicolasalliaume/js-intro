@@ -55,11 +55,11 @@ describe('#ejercicio offline 5', function () {
     describe('#postsByPopularity', function () {
 
         it('retorna vacío si no hay posts', function() {
-            assert.deepEqual(postsByPopularity(userWithoutPosts), [])
+            assert.deepStrictEqual(postsByPopularity(userWithoutPosts), [])
         })
 
         it('retorna ids de posts en orden descendente de likes', function () {
-            assert.deepEqual(postsByPopularity(userWithPosts), [3, 2, 1])
+            assert.deepStrictEqual(postsByPopularity(userWithPosts), [3, 2, 1])
         })
 
     })
@@ -67,11 +67,11 @@ describe('#ejercicio offline 5', function () {
     describe('#postsByEngagement', function () {
 
         it('retorna vacío si no hay posts', function () {
-            assert.deepEqual(postsByEngagement(userWithoutPosts), [])
+            assert.deepStrictEqual(postsByEngagement(userWithoutPosts), [])
         })
 
         it('retorna ids de posts en orden descendente de cantidad de comentarios', function () {
-            assert.deepEqual(postsByEngagement(userWithPosts), [2, 1, 3])
+            assert.deepStrictEqual(postsByEngagement(userWithPosts), [2, 1, 3])
         })
 
     })
